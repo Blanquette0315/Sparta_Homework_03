@@ -1,0 +1,10 @@
+﻿  SimpleVector.cpp
+D:\Unreal PJ\Study_P\Sparta_Homework_03\Homework_03\SimpleVector.h(58,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+D:\Unreal PJ\Study_P\Sparta_Homework_03\Homework_03\SimpleVector.h(70): message : 컴파일되는 클래스 템플릿 인스턴스화 'SimpleVector<T>'에 대한 참조를 확인하세요.
+D:\Unreal PJ\Study_P\Sparta_Homework_03\Homework_03\SimpleVector.h(110,2): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  main.cpp
+D:\Unreal PJ\Study_P\Sparta_Homework_03\Homework_03\SimpleVector.h(58,3): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+D:\Unreal PJ\Study_P\Sparta_Homework_03\Homework_03\SimpleVector.h(70): message : 컴파일되는 클래스 템플릿 인스턴스화 'SimpleVector<T>'에 대한 참조를 확인하세요.
+D:\Unreal PJ\Study_P\Sparta_Homework_03\Homework_03\SimpleVector.h(110,2): warning C4984: 'if constexpr'은 C++17 언어 확장입니다.
+  코드를 생성하고 있습니다...
+  Homework_03.vcxproj -> D:\Unreal PJ\Study_P\Sparta_Homework_03\x64\Debug\Homework_03.exe
